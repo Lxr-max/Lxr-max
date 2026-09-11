@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
+
+# Hi, I'm XuanRui Li (李玄睿) 👋
+
+**IoT Engineering @ BUPT × QMUL** · Intern @ **PolyU ASTAPLE Lab**
+
+Research: **Mobile GUI Agents** · **Long-term Memory** · **Memory Poisoning / Agent Security**
+
+[![Email](https://img.shields.io/badge/Email-xuanrui.li%40se24.qmul.ac.uk-blue?style=flat-square)](mailto:xuanrui.li@se24.qmul.ac.uk)
+[![GitHub](https://img.shields.io/badge/GitHub-Lxr--max-181717?style=flat-square&logo=github)](https://github.com/Lxr-max)
+
+</div>
+
+---
+
+### About
+
+2024-cohort student in **Internet of Things Engineering** (Beijing University of Posts and Telecommunications / Queen Mary University of London).  
+Currently interning at **Hong Kong Polytechnic University ASTAPLE Lab**.
+
+I'm interested in how mobile GUI agents *see, remember, and act* — especially failure modes where untrusted UI content quietly shifts long-term memory and later causes risky actions.
+
+主线研究：**CoMemOffset** — 不可信 Mobile GUI → 轨迹膨胀 → 上下文压缩 → 长期记忆偏移 → 延迟高风险动作（威胁模型：无权限第三方 UI，不直接写记忆库）。
+
+---
+
+### Research Focus
+
+| Area | What I'm working on |
+| --- | --- |
+| Mobile GUI Agents | AndroidWorld-style loops, trajectory logging, multimodal perception |
+| Long-term Memory | Write / admit / retrieve / act pipelines across sessions |
+| Memory Poisoning | Indirect poisoning via UI + compression (vs direct memory injection) |
+| Agent Security | Delayed ASR, utility trade-offs, provenance-aware defenses |
+
+Notion paper bases I maintain: *Mobile GUI Agent Memory*, *CoMemOffset baselines*, *Agent security attack library*.
+
+---
+
+### Featured Projects
+
+- **[OSCCC-Detection](https://github.com/Lxr-max/OSCCC-Detection)** — Cascaded CNN for oral squamous cell carcinoma detection from clinical photos (detection + DenseNet121 classification).
+- **[WebHarbor](https://github.com/Lxr-max/WebHarbor)** — Local Docker mirrors of real websites for evolving GUI-agent environments (community / aiming-lab line).
+- More under construction (smart-home digital twin, calendar agents, SeeAct experiments).
+
+---
+
+### Stack
+
+`Python` · `PyTorch` · `Android / GUI Agents` · `LLM Agents` · `Docker` · `JavaScript`
+
+---
+
+### Contact
+
+📧 **xuanrui.li@se24.qmul.ac.uk**
+
+Open to research collaboration on **mobile GUI agents**, **agent memory**, and **agent security**.
 
 <!--
-**Lxr-max/Lxr-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Profile tips (for me):
+- Pin OSCCC-Detection (+ research repos when public)
+- Fill GitHub Settings → Public profile: Name, Bio, Company, Location, Email
+Suggested Bio: Mobile GUI Agents · Long-term Memory · Memory Poisoning | BUPT/QMUL · PolyU ASTAPLE
+Suggested Company: PolyU ASTAPLE Lab
+Suggested Location: Hong Kong / Beijing
 -->
