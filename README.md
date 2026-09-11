@@ -20,7 +20,6 @@ Currently interning at **Hong Kong Polytechnic University ASTAPLE Lab**.
 
 I'm interested in how mobile GUI agents *see, remember, and act* — especially failure modes where untrusted UI content quietly shifts long-term memory and later causes risky actions.
 
-主线研究：**CoMemOffset** — 不可信 Mobile GUI → 轨迹膨胀 → 上下文压缩 → 长期记忆偏移 → 延迟高风险动作（威胁模型：无权限第三方 UI，不直接写记忆库）。
 
 ---
 
