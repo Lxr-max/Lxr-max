@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm XuanRui Li (李玄睿) 👋
+# Hi, I'm XuanRui Li 👋
 
 **IoT Engineering @ QMUL** · Intern @ **PolyU ASTAPLE Lab**
 
