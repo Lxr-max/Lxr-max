@@ -8,6 +8,7 @@ Research: **Mobile GUI Agents** · **Long-term Memory** · **Memory Poisoning / 
 
 [![Email](https://img.shields.io/badge/Email-xuanrui.li%40se24.qmul.ac.uk-blue?style=flat-square)](mailto:xuanrui.li@se24.qmul.ac.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-Lxr--max-181717?style=flat-square&logo=github)](https://github.com/Lxr-max)
+[![OpenReview](https://img.shields.io/badge/OpenReview-~Xuanrui__Li1-red?style=flat-square)](https://openreview.net/profile?id=~Xuanrui_Li1)
 
 </div>
 
@@ -42,6 +43,6 @@ I'm interested in how mobile GUI agents *see, remember, and act* — especially 
 
 ### Contact
 
-📧 **xuanrui.li@se24.qmul.ac.uk**
+📧 **xuanrui.li@se24.qmul.ac.uk** · [OpenReview](https://openreview.net/profile?id=~Xuanrui_Li1)
 
 Open to research collaboration on **mobile GUI agents**, **agent memory**, and **agent security**.
